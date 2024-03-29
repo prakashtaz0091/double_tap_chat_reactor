@@ -14,9 +14,9 @@ Welcome to the Chat Message Reactor App! This app allows you to react to chat me
 
 ## Demo
 
-Check out the [demo video](https://www.youtube.com/watch?v=your-video-id) to see the app in action!
+Check out the [demo video](https://github.com/prakashtaz0091/double_tap_chat_reactor/tree/master/assets/videos/demo.mp4) to see the app in action!
 
-[![Demo Video](https://img.youtube.com/vi/your-video-id/0.jpg)](https://www.youtube.com/watch?v=your-video-id)
+[![Demo Video](https://github.com/prakashtaz0091/double_tap_chat_reactor/tree/master/assets/videos/demo.mp4)](https://github.com/prakashtaz0091/double_tap_chat_reactor/tree/master/assets/videos/demo.mp4)
 
 ## Installation
 
@@ -25,13 +25,13 @@ To use this app, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/chat-message-reactor.git
+   git clone https://github.com/prakashtaz0091/double_tap_chat_reactor
    ```
 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd chat-message-reactor
+   cd double_tap_chat_reactor
    ```
 
 3. **Install dependencies:**
