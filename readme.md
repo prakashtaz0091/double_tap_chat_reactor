@@ -14,9 +14,9 @@ Welcome to the Chat Message Reactor App! This app allows you to react to chat me
 
 ## Demo
 
-Check out the [demo video](https://github.com/prakashtaz0091/double_tap_chat_reactor/tree/master/assets/videos/demo.mp4) to see the app in action!
+Check out the [demo video](https://github.com/prakashtaz0091/double_tap_chat_reactor/tree/master/assets/videos/) to see the app in action!
 
-[![Demo Video](https://github.com/prakashtaz0091/double_tap_chat_reactor/tree/master/assets/videos/demo.mp4)](https://github.com/prakashtaz0091/double_tap_chat_reactor/tree/master/assets/videos/demo.mp4)
+[![Demo Video](https://github.com/prakashtaz0091/double_tap_chat_reactor/tree/master/assets/videos/)](https://github.com/prakashtaz0091/double_tap_chat_reactor/tree/master/assets/videos/)
 
 ## Installation
 
